@@ -1,8 +1,14 @@
-# LGMVIP-TASK1
-to do list react app
-you can run this app by doing following step
-step 1- open folder with vs code.
-step 2- run "npm insatll" command in terminal to install node modules.
-step 3 - run "npm start" to deploy app on local server.
+# LGMVIP-TASK1- TO DO LIST
 
-check this link- https://lgmvip-task-1-to-do-app.vercel.app/
+
+## project Link🎞
+https://lgmvip-task-1-to-do-app.vercel.app
+
+
+# Thank you for watching TechinfoYT youtube channel
+😎 Please Like Share and Subscribe ! 🙏
+
+# Having Any Isuse Or Query DM On Linkedin🤷‍♀️
+https://www.linkedin.com/in/vansh-goel-811826225/
+
+
